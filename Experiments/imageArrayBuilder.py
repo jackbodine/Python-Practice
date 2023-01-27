@@ -3,9 +3,9 @@ from PIL import Image
 # This program takes an image and saves four files corresponding to the RGBA values.
 # I had to write this program to extract data for use in a separate python project that uses Jython.
 
-INCREMENT = 7
+INCREMENT = 3
 
-i = Image.open('wave.jpg')
+i = Image.open('images/wanderer.png')
 size = i.size
 pix = i.load()
 
