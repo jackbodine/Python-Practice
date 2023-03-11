@@ -7,6 +7,7 @@ This repository is dedicated to learning Python. It contains notes, experiments,
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/)
 - [W3 Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
 ### Contents
 
