@@ -5,7 +5,7 @@ from PIL import Image
 
 INCREMENT = 6
 
-i = Image.open('images/roses.jpg')
+i = Image.open('images/starryNight.png')
 size = i.size
 pix = i.load()
 
